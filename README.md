@@ -1,4 +1,7 @@
-# React + TypeScript + Vite
+# @test_ridgal_bot (https://t.me/test_ridgal_bot)
+## Telegram Mini App
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
